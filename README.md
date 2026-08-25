@@ -1,1 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/Shivam-0P/Shivam-0P/output/snake-purple.svg)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Shivam-0P/Shivam-0P/output/snake.svg)
