@@ -6,15 +6,17 @@
 
 ![divider](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
 
-### Hello Fellow <Coders />!
+<h3 align="center">Hello Fellow &lt;Coders /&gt;!</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=38&height=130&width=820&lines=Heyyy!+I'm+Shivam;Software+Development+Engineer;Full+Stack+Developer;Welcome+to+my+profile+!)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=38&height=130&width=820&lines=Heyyy!+I'm+Shivam;Software+Development+Engineer;Full+Stack+Developer;Welcome+to+my+profile+!" alt="Typing SVG"/>
+</p>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 💻 Technology Stack
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -59,13 +61,23 @@
 
 ### 📬 Connect With Me
 
-*Always open to interesting conversations, collaborations, or just a good chat!*
+<p align="center">
+  <em>Always open to interesting conversations, collaborations, or just a good chat!</em>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-rawani-309307197/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivam_.chandrawanshi/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-rawani-309307197/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/shivam_.chandrawanshi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 💭 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</p>
